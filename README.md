@@ -1,5 +1,6 @@
 # SUPER-MED - Aplicativo para Clínicas Médicas
-![Interface Mobile do SUPER-MED](https://github.com/ThiagoReefMan/SUPER-MED/assets/135510621/1dbc8222-c825-41fa-bb80-9b26fdebb8b5) { width=100px }
+
+![Interface Mobile do SUPER-MED](https://github.com/ThiagoReefMan/SUPER-MED/blob/master/assets/135510621/1dbc8222-c825-41fa-bb80-9b26fdebb8b5.png){width=100px}
 
 O SUPER-MED é um aplicativo de gerenciamento para clínicas médicas, projetado para simplificar a gestão de pacientes e informações médicas. Com o SUPER-MED, você pode marcar consultas, consultar a carteira do plano de saúde dos pacientes, acessar o histórico de vacinações e muito mais.
 
